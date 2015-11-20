@@ -36,7 +36,7 @@ This iteration covers core functionality of grabbing the remote futures market d
 
 ### Feature: Determine Commodity Symbols and Data Links
 
-> As a user I will want to know the Chicago Mercentile Exchange symbols for the lean hog futures that I am looking up and the links to Yahoo! Finance that will provide for me JSON data for those futures. 
+> As a user I will want to know the Chicago Mercantile Exchange symbols for the lean hog futures that I am looking up and the links to Yahoo! Finance that will provide for me JSON data for those futures. 
 
 - Construct CME symbols
 - Construct Yahoo! Finance JSON links
