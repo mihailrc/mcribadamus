@@ -49,14 +49,13 @@ This iteration covers core functionality of grabbing the remote futures market d
 - Compare price to threshold
 
 
-
-
 ## Iteration 2 - Web Application
 
 ## Iteration 3 - Mobile Application
 
 ## Iteration 4 - Advanced Analytics
 
+> As a user that acknowledges the threat of climate change, I would like to take the predicted amount of climate change over time and use is as a basis to predict the impact it will have on the avaialability of my beloved McRib sandwich.
 
 
 Links
