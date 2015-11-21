@@ -73,3 +73,6 @@ Links
 * [A Conspiracy of Hogs: The McRib as Arbitrage](http://www.theawl.com/2011/11/a-conspiracy-of-hogs-the-mcrib-as-arbitrage) 
 * [barchart.com > Lean Hog Futures](http://www.barchart.com/commodityfutures/Lean_Hogs_Futures/HE?search=HE*)
 * [Wikinvest > Lean Hog Futures](http://www.wikinvest.com/futures/Lean_Hogs_Futures)
+* [@McRibWatch](https://twitter.com/McRibWatch)
+* [@McRibSandwich](https://twitter.com/McRibSandwich)
+* [@mcriblocator](https://twitter.com/mcriblocator)
