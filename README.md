@@ -50,10 +50,15 @@ This iteration covers core functionality of grabbing the remote futures market d
 - Retreive JSON data
 - Compare price to threshold
 
-
 ## Iteration 2 - Web Application
 
+> As a user I would like the McRibadamus predictions to be displayed on the web.
+
+- Create a website to display the engine's predictions.
+
 ## Iteration 3 - Mobile Application
+
+- As a use I would like to view McRibadamus' predictions on my mobile device. 
 
 ## Iteration 4 - Advanced Analytics
 
@@ -66,3 +71,5 @@ Links
 * [Wikipedia > McRib #Limited_availability](https://en.wikipedia.org/wiki/McRib#Limited_availability)
 * [McRib Locator](http://mcriblocator.com/map.html)
 * [A Conspiracy of Hogs: The McRib as Arbitrage](http://www.theawl.com/2011/11/a-conspiracy-of-hogs-the-mcrib-as-arbitrage) 
+* [barchart.com > Lean Hog Futures](http://www.barchart.com/commodityfutures/Lean_Hogs_Futures/HE?search=HE*)
+* [Wikinvest > Lean Hog Futures](http://www.wikinvest.com/futures/Lean_Hogs_Futures)
