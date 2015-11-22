@@ -1,9 +1,9 @@
-#McRibadamus Kata
+# McRibadamus Kata
 ![McRibadamus](mcribadamus.jpg)
 
-##The McRib Availability Prediction Engine
+## The McRib Availability Prediction Engine
 
-For centuries people have looked to the wisdom of Nostradamus in order to see into the future. In modern times few problems have vexed mankind more than when the McRib(tm) sandwich will be available. Now, thanks to the power of McRibadamus, they can know the fate of the value meal they love so much. 
+For centuries people have looked to the wisdom of Nostradamus in order to see into the future. In modern times few problems have vexed mankind more than when the McRib(tm) sandwich will be available. Now, thanks to the power of McRibadamus, they can know the fate of the value meal they love so much.
 
 Chris Baker ([@folkengine](https://twitter.com/folkengine))
 
@@ -38,7 +38,7 @@ This iteration covers core functionality of grabbing the remote futures market d
 
 ### Feature: Determine Commodity Symbols and Data Links
 
-> As a user I will want to know the Chicago Mercantile Exchange symbols for the lean hog futures that I am looking up and the links to Yahoo! Finance that will provide for me JSON data for those futures. 
+> As a user I will want to know the Chicago Mercantile Exchange symbols for the lean hog futures that I am looking up and the links to Yahoo! Finance that will provide for me JSON data for those futures.
 
 - Construct CME symbols
 - Construct Yahoo! Finance JSON links
@@ -58,7 +58,7 @@ This iteration covers core functionality of grabbing the remote futures market d
 
 ## Iteration 3 - Mobile Application
 
-- As a use I would like to view McRibadamus' predictions on my mobile device. 
+- As a use I would like to view McRibadamus' predictions on my mobile device.
 
 ## Iteration 4 - Advanced Analytics
 
@@ -70,7 +70,7 @@ Links
 
 * [Wikipedia > McRib #Limited_availability](https://en.wikipedia.org/wiki/McRib#Limited_availability)
 * [McRib Locator](http://mcriblocator.com/map.html)
-* [A Conspiracy of Hogs: The McRib as Arbitrage](http://www.theawl.com/2011/11/a-conspiracy-of-hogs-the-mcrib-as-arbitrage) 
+* [A Conspiracy of Hogs: The McRib as Arbitrage](http://www.theawl.com/2011/11/a-conspiracy-of-hogs-the-mcrib-as-arbitrage)
 * [barchart.com > Lean Hog Futures](http://www.barchart.com/commodityfutures/Lean_Hogs_Futures/HE?search=HE*)
 * [Wikinvest > Lean Hog Futures](http://www.wikinvest.com/futures/Lean_Hogs_Futures)
 * [@McRibWatch](https://twitter.com/McRibWatch)
